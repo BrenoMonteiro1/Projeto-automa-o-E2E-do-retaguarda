@@ -1,0 +1,9 @@
+{
+  "robotcode.robot.outputDir": "results",
+  "terminal.integrated.env.windows": {
+    "ROBOT_OPTIONS": "--outputdir results"
+  },
+  "robot.codeLens.run.enable": false,
+  "robot.testView.enabled": false
+}
+
