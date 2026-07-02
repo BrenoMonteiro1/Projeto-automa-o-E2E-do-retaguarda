@@ -31,7 +31,7 @@ Antes de preencher o login, a automacao fecha qualquer instancia aberta do `Gest
 Os dados de usuario e senha ficam no proprio passo do teste, no mesmo estilo usado no projeto PDV:
 
 ```robot
-Abrir Retaguarda com usuario "8043" e senha "123123"
+Abrir Retaguarda com usuario "7240" e senha "123123"
 ```
 
 ## Cuidados

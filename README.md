@@ -51,10 +51,10 @@ robot --dryrun -d results .\tests\tests.robot
 O smoke inicial fecha uma instancia aberta do Retaguarda, abre o atalho novamente, aguarda a tela de login estabilizar e executa. Os valores de usuario e senha sao passados como parametros no passo do teste, seguindo o estilo do projeto PDV:
 
 ```robot
-Abrir Retaguarda com usuario "8043" e senha "123123"
+Abrir Retaguarda com usuario "7240" e senha "123123"
 ```
 
-1. Informa `8043`.
+1. Informa `7240`.
 2. Informa `123123`.
 3. Clica no botao de acesso.
 4. Aguarda 3 segundos.
